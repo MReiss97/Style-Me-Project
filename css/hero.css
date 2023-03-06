@@ -1,11 +1,6 @@
-body, html {
-    height: 100%;
-    margin: 0;
-    font-family: Arial, Helvetica, sans-serif;
-  }
-  
+
   .hero-image {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("img/jonyive1.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/jonyive1.jpg");
     height: 50%;
     background-position: center;
     background-repeat: no-repeat;
@@ -22,19 +17,5 @@ body, html {
     color: white;
   }
   
-  .hero-text button {
-    outline: 0;
-    display: inline-block;
-    padding: 10px 25px;
-    color: black;
-    background-color: #ddd;
-    text-align: center;
-    cursor: pointer;
-  }
   
-  .hero-text button:hover {
-    background-color: white;
-    color: black; 
-  }
-
   
